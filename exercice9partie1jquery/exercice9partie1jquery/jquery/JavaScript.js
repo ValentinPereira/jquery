@@ -1,0 +1,1 @@
+﻿$('#firstText, #thirdText').css('border', 'dashed 5px green');    
